@@ -61,3 +61,6 @@ svg {
       background: #ffffff;
       color: #1B1734;
   }
+  aside {
+  display: block;
+}
